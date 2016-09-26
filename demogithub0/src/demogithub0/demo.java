@@ -6,6 +6,7 @@ public class demo {
 		// TODO Auto-generated method stub
 
 		System.out.println("demogithub");
+		System.out.println("xin chao cac ban");
 	}
 
 }
